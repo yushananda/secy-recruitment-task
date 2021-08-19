@@ -9,7 +9,7 @@ int main()
 {
     freopen ("Test_Cases.in", "w", stdout);
     //For random values every time
-	srand(time(NULL));
+    srand(time(NULL));
     for(int i=0; i<NUMBER_OF_CASES; i++)
     {
         // Number of array elements
