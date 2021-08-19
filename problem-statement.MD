@@ -1,4 +1,8 @@
-# It's not coming home
+# <p align = "center"> It's not coming home </p>
+  <p align = "center"> Time limit per test: 2 seconds
+  <p align = "center"> Memory limit per test: 256 MB
+  <p align = "center"> Input: Standard Input
+  <p align = "center"> Output: Standard Output   
 
 After England’s heartbreaking loss in the finals of the Euro Cup, thousands of disappointed fans get in their cars and drive home from the game, causing heavy congestion on the roads. A wealthy Italian entrepreneur wants to build a new arena. Your task is to help him select a location for the arena to minimize the traffic congestion after future games.
 
