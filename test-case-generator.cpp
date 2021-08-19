@@ -1,7 +1,8 @@
+// No matter what I do, the indentation keeps getting messed up, pls excuse
 #include<bits/stdc++.h>
 using namespace std;
 #define NUMBER_OF_CASES 50
-// Define the number of test cases that are to be generated
+// Define the number of test cases to be generated
 #define ll long long
 // Since N < 10^6
 #define MAXNUM 1000000
