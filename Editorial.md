@@ -1,4 +1,2 @@
-## Editorial - It's not coming home
-We use an adjacency matrix *adj[]* to store whether or not two cities (say c<sub>i</sub> and c<sub>j</sub> are *adjacent* or not, i.e. have a road connecting them.
-To calculate the value of arena[i] for each *i*, that is the congestion if the city c<sub>i</sub> were to be made the arena city, we use a recursive DFS (Depth First Search)
-function, which calculates the sum of the values of congestion for each city that a particular city is connected to. The city with the minimum value of arena[] is the required arena city. 
+## Editorial - Movie Date
+The answer to this problem is simply the n<sup>th</sup> [catalan number](https://en.wikipedia.org/wiki/Catalan_number). Th solution employs the use a of a recursive function that returns the n<sup>th</sup> catalan number. One may also calculate the value of "2n choose n times n!", if they already know the closed form.   
