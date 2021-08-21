@@ -4,10 +4,10 @@ long long catalan(int n)
 {
     if (n <= 1)
         return 1;
-    long long res = 0;
+    long long ans = 0;
     for (int i = 0; i < n; i++)
-        res += catalan(i)*catalan(n - i - 1);
-    return res;
+        ans += catalan(i)*catalan(n-i-1);
+    return ans;
 }
 int main()
 {
